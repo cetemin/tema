@@ -1,0 +1,31 @@
+core: 8.x
+type: theme
+base theme: stable
+
+name: 'CETEMIN'
+description: 'Diseño Responsive para website CETEMIN - Creado por Jorge Bravo Carrizales'
+package: 'Core'
+
+regions:
+  navigation: 'Menu Principal'
+  navigation_collapsible: 'Menu (Colapsable)'
+  header: 'Barra Superior'
+  highlighted: 'Destacado'
+  help: 'Ayuda'
+  carrousel_1: 'Carrousel 1'
+  carrousel_2: 'Carrousel 2'
+  carrousel_3: 'Carrousel 3'
+  carrousel_4: 'Carrousel 4'
+  carrousel_5: 'Carrousel 5'
+  carrousel_6: 'Carrousel 6'
+  carrousel_7: 'Carrousel 7'
+  carrousel_8: 'Carrousel 8'
+  content: 'Contenido'
+  sidebar_first: 'Lateral Izquierda'
+  sidebar_second: 'Lateral Derecha'
+  footer: 'Pie de Página'
+  page_top: 'Cabecera'
+  page_bottom: 'Zona Inferior'
+
+libraries:
+  - 'cetemin/global-styling'
